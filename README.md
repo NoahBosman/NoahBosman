@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Ansible, Quark, XSLT, Rust**<br>👨‍💻 All of my projects are available at [https://njbosman.com/projects](https://njbosman.com/projects)<br>📝 I regularly write articles on [https://njbosman.com/blog](https://njbosman.com/blog)
+🌱 I’m currently learning **Ansible, Quark, XSLT, Rust**<br>👨‍💻 All of my projects are available at [https://njbosman.com/projects](https://njbosman.com/projects)<br>📝 I regularly write articles on [https://njbosman.com/blog](https://njbosman.com/blog)<br>Take a look at my professional side: [https://drkmode.com/](https://drkmode.com/)
 
 
 # 💻 Tech Stack:
